@@ -1,0 +1,24 @@
+Skill 1 : theory
+- What is testing
+- What does tester/QA engineer do
+- What is the goal of testing
+Skill 2 : documentation
+- Checklist
+- Bug report
+- Test case
+- Requirements
+Skill 3 : programms
+- devtools
+- Postman
+- Android Studio
+- Dbeaver
+- Charles
+Skill 4 : languages
+- Python
+- JavaScript
+- SQL
+Skill 5 : test techniques
+- Equivalent class partitioning
+- Boundary value analysis
+- State transition
+- Pairwise testing
