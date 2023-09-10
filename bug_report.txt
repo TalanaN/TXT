@@ -12,3 +12,5 @@ Steps to reproduce :
 Actual and expect results:
 	Actual result : some result 1
 	Expected result : some result 2
+------------------------------
+Attachment : n/a
